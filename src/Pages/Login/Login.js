@@ -31,7 +31,7 @@ const Login = () => {
         }
     
     return (
-        <div className="">
+        <div style={{marginBottom:"180px"}}>
         <h2 className="text-primary">Please Log-in</h2>
         <form onSubmit={handleLogin}>
             <div className="row mb-3">
