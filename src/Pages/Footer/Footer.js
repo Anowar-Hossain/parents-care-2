@@ -6,25 +6,20 @@ const Footer = () => {
         <div className="">
             <div className="row ">
                 <div className="footer mb-2">
-                    <div className="col-md-3">
+                    <div className="col-md-4">
                         <i className="fas fa-truck-moving"></i>
-                        <h6><small>Quick delover</small></h6>
-                        <p>Deleivery is so fast</p>
+                        <h3>Best Service Award</h3>
+                        <p>Erened best service award 2017</p>
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-md-4">
                         <i className="fas fa-money-check-alt"></i>
-                        <h6><small>Pay With Easy</small></h6>
-                        <p>Pament in very easy</p>
+                        <h3>Verified Service Providers</h3>
+                        <p>More than 35000 service providers</p>
                     </div>
-                    <div className="col-md-3"> 
+                    <div className="col-md-4"> 
                          <i className="fas fa-heartbeat"></i>
-                        <h6><small>Best Deal</small></h6>
-                        <p>love to all customer</p>
-                    </div>
-                    <div className="col-md-3"> 
-                         <i className="fas fa-lock"></i>
-                        <h6><small>Secured Pament</small></h6>
-                        <p>Customer pament secured</p>
+                        <h3>User Friendly Focused</h3>
+                        <p>Given attention to rich user experience</p>
                     </div>
                     <div>
                     </div>
